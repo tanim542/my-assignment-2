@@ -1,1 +1,29 @@
 @import "tailwindcss";
+
+li {
+  margin-bottom: 18px;
+  text-align: left;
+}
+
+#badge {
+  width: 286px;
+  height: 286px;
+}
+
+.one {
+  background-image: url("../assets/deal-bloom.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+   
+}
+.two {
+  background-image: url("../assets/deal-ana.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.last {
+  background-image: url("../assets/deal-zabo.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
